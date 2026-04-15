@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810137797839",
+    "project_id": "prof-ci",
+    "storage_bucket": "prof-ci.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810137797839:android:9501b8a16cbe57b04223ba",
+        "android_client_info": {
+          "package_name": "com.example.prof_ci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfe-NC1KEM2dKhBnOqmP973BftDhumq0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
